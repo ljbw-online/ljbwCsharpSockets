@@ -1,3 +1,3 @@
-# ljbw_csharp_sockets
+# ljbwCsharpSockets
 
-A simple socket client and server in C# to use as a reference.
+A quick reference for how to set up sockets in C#.
